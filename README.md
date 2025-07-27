@@ -60,7 +60,7 @@ Boxplot: price vs waterfront
 
 Scatter plot with regression line: sqft_above vs price
 
-🔹 Technologies Used
+## 🔹 Technologies Used
 
 Python
 
